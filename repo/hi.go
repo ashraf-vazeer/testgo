@@ -1,5 +1,5 @@
 package repo
 
 func SayHi() string {
-    retrun sting("hello from github")
+    retrun string("hello from github")
 }
